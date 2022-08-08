@@ -1,4 +1,1 @@
-.yellow-bg{
-    background-color: yellow;
 
-}
